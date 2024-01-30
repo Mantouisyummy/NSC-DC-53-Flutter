@@ -1,6 +1,6 @@
 # NCS-DS-53-Flutter
 
-A National Skills Competition Divisional Round Flutter project.
+A 53rd National Skills Competition Divisional Round Flutter project.
 
 # 主畫面&Drawer
 ![splash_screen](https://github.com/Mantou-9487/NCS-DS-53-Flutter/assets/51238168/10cf7771-6f83-423f-b4d0-ba7a6d89e43f)
